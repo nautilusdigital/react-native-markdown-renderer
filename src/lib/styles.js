@@ -151,7 +151,9 @@ export const styles = StyleSheet.create({
     flex: 1,
     padding: 5,
   },
-  text: {},
+  text: {
+    fontSize: 16,
+  },
   strikethrough: {
     textDecorationLine: 'line-through',
   },
