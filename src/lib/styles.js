@@ -5,9 +5,7 @@ import PlatformEnum from './data/PlatformEnum';
  *
  */
 export const styles = StyleSheet.create({
-  root: {
-    fontSize: 16,
-  },
+  root: {},
   view: {},
   codeBlock: {
     borderWidth: 1,
@@ -153,9 +151,7 @@ export const styles = StyleSheet.create({
     flex: 1,
     padding: 5,
   },
-  text: {
-    fontSize: 16,
-  },
+  text: {},
   strikethrough: {
     textDecorationLine: 'line-through',
   },
